@@ -1,18 +1,18 @@
 {
-    "name": "stephenharris/wp-query-builder",
-    "description": "An expressive query builder for WordPress based on Laravel's Query Builder",
+    "name": "websteam/wp-query-builder",
+    "description": "A fork of an expressive query builder for WordPress based on Laravel's Query Builder",
     "type": "library",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
-            "name": "Stephen Harris",
-            "email": "contact@stephenharris.info"
+            "name": "Websteam",
+            "email": "korbanekm@gmail.com"
         }
     ],
 		"repositories": [
 			{
 				"type": "git",
-				"url": "https://github.com/stephenharris/wp-test-library.git"
+				"url": "https://github.com/websteam/WP-Query-Builder"
 			}
 		],
 		"autoload": {
